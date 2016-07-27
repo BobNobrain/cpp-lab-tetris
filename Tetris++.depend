@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1387168718 source:c:\users\user\documents\c\tetris++\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<ctime>
+	"pgui.h"
+	"gamecore.h"
+
+1386963788 c:\users\user\documents\c\tetris++\pgui.h
+	<stdio.h>
+	<stdlib.h>
+
+1387153681 source:c:\users\user\documents\c\tetris++\pgui.cpp
+	<string.h>
+	"pgui.h"
+	"gamecore.h"
+
+1385144357 c:\users\user\documents\c\tetris++\pgui.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1387153251 source:c:\users\user\documents\c\tetris++\gamecore.cpp
+	<fstream>
+	<iostream>
+	"pgui.h"
+	"gamecore.h"
+
+1387153079 c:\users\user\documents\c\tetris++\gamecore.h
+
